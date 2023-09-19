@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Azdiad</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
+<img alighn="right" alt ="Let's Code" width="400" src ="https://media2.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=ecf05e47920kpskyuttjq1qqh6usool3tiz1g6mximd6gcko&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azdiad&label=Profile%20views&color=0e75b6&style=flat" alt="azdiad" /> </p>
 
