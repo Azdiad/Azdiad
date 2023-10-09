@@ -7,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azdiad&label=Profile%20views&color=0e75b6&style=flat" alt="azdiad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azdiad" alt="azdiad" /></a> </p>
-[![An image of @azdiad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/azdiad)](https://holopin.io/@azdiad)
 
 - 🔭 I’m currently Learning **Flutter**
 
